@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shelpent
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning frontend 
-- 💞️ I’m looking to collaborate with all
+
 
 
 <!---
